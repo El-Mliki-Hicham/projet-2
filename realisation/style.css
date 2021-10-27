@@ -1,13 +1,39 @@
 
-/* header */
-#header{
-left: 30%;
 
+
+body{
+background-color: brown;
+padding-top:20px   ;
 }
-p{
-    color: blue;
-    float:left ;
-    margin: 20px;
-    padding-left: 100px;
+ 
 
+/* header */
+
+#header{
+    float:right;
+margin-right: 233px;
+margin-top: 14px;
+
+    
+}
+#logo{
+
+    height:  51px; 
+   padding-top: 30px;
+   padding-left: 10px;
+   padding-right: 26px;
+}
+
+.NEV{
+    color: rgb(255, 255, 255);
+    float:left ;
+    margin: 47px;
+   
+}
+.react{
+    background-color: black;
+    float: right;
+    padding: 10px;
+    margin-top: 42px;
+    color: wheat;
 }
