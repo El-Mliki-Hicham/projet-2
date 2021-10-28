@@ -20,7 +20,7 @@ body{
 .NEV{
     color: rgb(255, 255, 255);
     float:left ;
-    margin: 47px;
+    margin: 51px;
     margin-right: 118px;
     
     list-style: none;
@@ -48,12 +48,19 @@ body{
     list-style: none;
 
 }
+
+a{
+
+text-decoration:none;
+color: white;
+}
+
 #titre{
     color: #ffffff;
     margin-top: 234px;
     
     text-align: center;
-    font-size: 80px;
+    font-size: 100px;
 }
 #PG{
 
